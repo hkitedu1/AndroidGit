@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hellow">안녕하세요. 김성민 대각선 뒷자리에 있는 황희철입니다.</string>
+    <string name="myname">  지렁이의 제왕 황희철 우윳빛깔 희철</string>
+    <string name="change">값을 바꿧음.</string>
+    <string name="bu1">버튼1</string>
+    <string name="bu2">버튼2</string>
+    <string name="title_activity_print_star">PrintStarActivity</string>
+</resources>
